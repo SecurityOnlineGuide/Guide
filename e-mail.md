@@ -1,6 +1,6 @@
 # **E-Mail**
 
-Firstly getting into someone’s e-mail is the **Holy Grail** for a hacker \(Get two factor authentication as soon as possible! See \#2fa\). Accounts passwords can be reset to your email address so once they have your e-mail they can gain access to everything. We recommend having a couple of different email accounts. For example:
+Firstly getting into someone’s e-mail is the **Holy Grail** for a hacker \(Get two factor authentication as soon as possible! See [\#2fa](/two-factor-authentication-2fa.md)\). Accounts passwords can be reset to your email address so once they have your e-mail they can gain access to everything. We recommend having a couple of different email accounts. For example:
 
 1. For none payment services \(Newsletters,free software\)
 2. For Payment services \(paypal/amazon/bank\)
@@ -16,7 +16,7 @@ When receiving an email check the actual email address by clicking on Show more 
 
 But under futher inspection the email address is applehelp@fakecompany.com.
 
-The same goes for **Links or URL’s in emails** you can make a link look like something else, be sure to hover over the url\(DO NOT CLICK\) and see the real address at the bottom left of your screen. 
+The same goes for **Links or URL’s in emails** you can make a link look like something else, be sure to hover over the url\(DO NOT CLICK\) and see the real address at the bottom left of your screen.
 
 If this is slightly overwhelming for you, dont worry but follow this one rule:
 
