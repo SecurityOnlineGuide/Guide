@@ -1,4 +1,4 @@
-# Google Auth
+# Google Authentication
 
 To be added
 

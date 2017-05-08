@@ -29,7 +29,7 @@
   * [Password Managers](passwords/password-managers.md)
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
   * [Google Auth](two-factor-authentication-2fa/google-auth.md)
-  * Authy
+  * [Authy](two-factor-authentication-2fa/authy.md)
   * FreeOTP
 * [IoT/Smart Devices](iotsmart-devices.md)
 * [Wifi & Routers](wifi-and-routers.md)
