@@ -1,8 +1,18 @@
 # Surfing the Web and Downloading
 
-**Section on Executables**
+### **Section on Executables**
 
-**Reputable sources only**
+Text
+
+### **Section on Reputable websites**
+
+Text
+
+### **Section on reviews and finding out if somethign is safe**
+
+Text
+
+### Useful Programs/Websites
 
 If you're someone who finds themselves with lots of extra software and toolbars we recommend **Unchecky** - [https://unchecky.com/](https://unchecky.com/) - When installing new software there are usually custom options to download other products which most users don't see. This little program will make sure you only install the items you want.
 
