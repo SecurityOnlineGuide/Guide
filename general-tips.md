@@ -8,7 +8,7 @@
 6. If you receive an email/link to something or from someone you're unsure of. **Don't click!**
 7. Only visit websites you recognise or know to be reputable.
 8. Use a none Administrator\(Super User\) Account for daily use. \(Read [\#OperatingSystems](/operating-systems.md)\)
-9. Use 2 Factor Authentication and secure passwords \(Read [\#Password](/passwords.md)\)
+9. Use 2 Factor Authentication and secure passwords \(Read [\#Password](/passwords.md) & [\#2fa](/two-factor-authentication-2fa.md)\)
 10. When downloading and installing reputable software, It is recommended to click Custom Installation and reading through each section \(Read [\#Install](/downloading.md)\)
 11. You will never recieve **REAL** phone calls regarding your computer - especially from microsoft. If someone calls you to inform about a virus or something hang up.
 12. Never give out your password to **ANYONE**
