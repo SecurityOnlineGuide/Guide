@@ -27,7 +27,7 @@
   * FreeOTP
 * [IoT/Smart Devices](iotsmart-devices.md)
 * [Wifi & Routers](wifi-and-routers.md)
-* VPNS
+* [VPNS](vpns.md)
 * [Physical Defense](physical-defense.md)
 * Abbreviations and terms
 * [Privacy](privacy.md)
