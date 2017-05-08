@@ -16,13 +16,11 @@ But under futher inspection the email address is applehelp@fakecompany.com.
 
 ##### The same goes for Links or URL’s in emails you can make a link look like something else, be sure to hover over the url\(DONT CLICK\) and see the real address at the bottom left of your screen. Or copy and pasting the URL/Link into a notepad and seeing the true result.
 
-#### ![](/assets/domain.png)
-
 If this is slightly overwhelming for you, dont worry but follow this one rule:
 
 **Don’t click anything in e-mails unless you are expecting it.** If you recieve an email saying you have ordered something you have not, or your Government account is broken. Don’t click the link, instead go to the website in question \(ie Amazon.com or SSA.gov and review the issue from there.
 
-Attachments
+### Attachments
 
 Similar rules apply, attachments especially Office documents can be malicious. Do not open unless you are expecting it. If your friend sends you a “CuteCatPictures.ppt” out of the blue with no previous knowledge or the email text has no personality or indentifiable communication to it their account may have been hacked and it’s trying to infect you too.
 

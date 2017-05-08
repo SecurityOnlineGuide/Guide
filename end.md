@@ -6,3 +6,15 @@ I**f this has been helpful please consider donating to keep the site running via
 
 
 
+To Do:
+
+More diagrams
+
+Complete Physical Defense, IoT/Smart Device 
+
+Complete Setup for 2FA/Password Managers
+
+Complete
+
+
+
