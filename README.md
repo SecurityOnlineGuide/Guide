@@ -95,8 +95,6 @@ To Update Firefox you will either be prompted automatically or you can check by 
 
 _The URL Bar & Padlock in Firefox \(Displaying HTTPS -_ _**SECURE**_** **_connection\)_
 
-
-
 ### Chrome \(Created by Google\)
 
 To Update chrome you will either by prompted automatically or you can check by clicking the three verticle dots along the grey menu bar on the right hand side and clicking Help -&gt; About Google Chrome.
@@ -145,7 +143,7 @@ Recommended Addons:
 
 * **HTTPS Everywhere** - _created by EFF_ is an addon which when you visit a website asks to use the "Secure" version instead \(discussed earlier in Browsers\).
 
-If you must use plugins in most cases they are obsolete now, **KEEP THEM UP TO DATE**. Plugins include **Java** and **Flash Player**.
+If you must use plugins but in most cases they are obsolete now, **KEEP THEM UP TO DATE**. Plugins include **Java** and **Flash Player**.
 
 # **Operating Systems**
 
@@ -211,8 +209,7 @@ Passwords are used to keep your account private. Rather than going into detail o
 
 1. Password Length: A password security increases exponentially with each added character. I recommend using atleast 15+ characters in passwords and the higher the better!
 2. Password Symbols/Numbers/LowerCase/UpperCase: Using a variety of Symbols, Numbers and different cases makes bruteforcing more difficult.
-3. Complicating Words in Passwords: If youre using words or sentences - try and substitute letters or remove. This will make a dictionary bruteforce attempt harder. 
-   ---
+3. ## Complicating Words in Passwords: If youre using words or sentences - try and substitute letters or remove. This will make a dictionary bruteforce attempt harder.
 
 Lets look into a couple of different passwords:
 
@@ -297,25 +294,19 @@ Include Information
 
 * Routers - A router is the box connecting you to the internet. There are two main settings you need to confirm are in the right state:
 
-1. In your router settings \(generally found at the URL 192.168.2.1\) Turn off Universal Plug and Play \(uPNP\) - this mode has many security issues and can allow external hackers access , You will know if you need it but 99% of people DO NOT.
+* In your router settings \(generally found at the URL 192.168.2.1\) Turn off Universal Plug and Play \(uPNP\) - this mode has many security issues and can allow external hackers access , You will know if you need it but 99% of people DO NOT.
 
-2. If you are using Wireless\(Wifi\) to connect to the internet rather than a cable make sure you have a secure password to connect to as well as a** none default ADMIN password**. To do this visit your Routers internal website \(usually found at 192.168.2.1\) log in with the information given generally found on the back of your router. If the settings are not visible look for a "advanced" section. _ Make sure you are using WPA2 as your Security Protocol \(all devices bought after 2006 should have it set by default\)_
-
-
+* If you are using Wireless\(Wifi\) to connect to the internet rather than a cable make sure you have a secure password to connect to as well as a** none default ADMIN password**. To do this visit your Routers internal website \(usually found at 192.168.2.1\) log in with the information given generally found on the back of your router. If the settings are not visible look for a "advanced" section. _ Make sure you are using WPA2 as your Security Protocol \(all devices bought after 2006 should have it set by default\)_
 
 # **Physical Defense:**
 
 **Encrypting:**
 
-**Veracrypt \(Most major operating systems\) https://veracrypt.codeplex.com/**
+**Veracrypt \(Most major operating systems\) **[https://veracrypt.codeplex.com/](https://veracrypt.codeplex.com/)
 
 **BitLocker \(Windows 10\)**
 
 **FileVault \(Mac\)**
-
-
-
-
 
 # **Abbreviations and Terms**
 
@@ -331,7 +322,7 @@ Wan - Wide Area Network
 
 URL - Uniform Resource Locator - the address used for a website - ie "stroodle.com"
 
-IP Address - Internet Protocol Address - generally each device is assigned with an address \(think of it like a street address\) made up of numbers for example 192.168.2.1 
+IP Address - Internet Protocol Address - generally each device is assigned with an address \(think of it like a street address\) made up of numbers for example 192.168.2.1
 
 Router - a router is a device which transmits digital internet traffic to and from your computer/phone/tablet. Generally connectable via Wifi or Ethernet cable
 
