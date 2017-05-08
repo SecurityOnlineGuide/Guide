@@ -14,3 +14,9 @@ Windows 7 will stop being supported in **2020.**
 
 **Check for updates atleast once a week!**
 
+
+
+## None Super User/Admin Account
+
+![](/assets/userw10.png)
+
