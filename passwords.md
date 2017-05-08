@@ -2,20 +2,20 @@
 
 Passwords are used to keep your account private. Rather than going into detail on the probability of password break ins \(I do advise you to look into the subject further though\), i'll try and simplify the strength by stating three things.
 
-1. Password Length: A password security increases exponentially with each added character. I recommend using atleast 15+ characters in passwords and the higher the better!
-2. Password Symbols/Numbers/LowerCase/UpperCase: Using a variety of Symbols, Numbers and different cases makes bruteforcing more difficult.
-3. Complicating Words in Passwords: If youre using words or sentences - try and substitute letters or remove. This will make a dictionary bruteforce attempt harder.
+1. **Password Length: **A password security increases exponentially with each added character. I recommend using atleast **15+ **characters in passwords and the higher the better!
+2. **Password Symbols/Numbers/LowerCase/UpperCase:** Using a variety of Symbols, Numbers and different cases makes bruteforcing more difficult.
+3. **Complicating Words in Passwords: I**f youre using words or sentences - try and substitute letters or remove. This will make a dictionary bruteforce attempt harder.
 
 Lets look into a couple of different passwords:
 
 \(In this example we're taking a song lyric - I bless the rains - easy to remember\)
 
-1. iblesstherains - 14 Characters, All Dictionary Words,
-2. IBlessTheRains - 14 Characters, All Dictionary Words, Mix of Lower&Upper Case
-3. I,Bless.The.Rains? - 18 Characters, 4 Symbols, Mix of Lower & Upper Case
-4. I,Ble55.Th3-Ra1ns? - 18 Characters, 4 Symbols , Mix of Lower &Upper Case, 4 Symbols ,4 Numbers
+1. iblesstherains - **14** Characters, All Dictionary Words,
+2. IBlessTheRains - **14 **Characters, All Dictionary Words, Mix of Lower&Upper Case
+3. I,Bless.The.Rains? - **18** Characters, 4 Symbols, Mix of Lower & Upper Case
+4. I,Ble55.Th3-Ra1ns? - **18** Characters, 4 Symbols , Mix of Lower &Upper Case, 4 Symbols ,4 Numbers
 
-Obviously 4 is the most secure but it is more difficult to remember initially - Don't panic below we have solutions on keeping passwords.
+Obviously 4 is the most secure but it is more difficult to remember initially - Don't panic, below we have solutions on keeping passwords.
 
 ---
 

@@ -13,7 +13,7 @@
 * [Domains](domains.md)
 * [Passwords](passwords.md)
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
-* IoT/Smart Devices
+* [IoT/Smart Devices](iotsmart-devices.md)
 * [Wifi & Routers](wifi-and-routers.md)
 * [Physical Defense](physical-defense.md)
 * Abbreviations and terms
