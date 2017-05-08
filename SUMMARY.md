@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [General Tips](general-tips.md)
-* Malware/Viruses
-* Antivirus
-* Firewall
+* [Malware/Viruses](malwareviruses.md)
+* [Antivirus](antivirus.md)
+* [Firewall](firewall.md)
 * [Downloading](downloading.md)
 * Browsers
 * Addons, Extensions & Plugins
