@@ -12,7 +12,7 @@ Lets look into a couple of different passwords:
 
 1. iblesstherains - **14** Characters, All Dictionary Words,
 2. IBlessTheRains - **14 **Characters, All Dictionary Words, Mix of Lower&Upper Case
-3. I,Bless.The.Rains? - **18** Characters, 4 Symbols, Mix of Lower & Upper Case
+3. I,Bless.The.Rains? - **18** Characters, All Dictionary Words, 4 Symbols, Mix of Lower & Upper Case
 4. I,Ble55.Th3-Ra1ns? - **18** Characters, 4 Symbols , Mix of Lower &Upper Case, 4 Symbols ,4 Numbers
 
 Obviously 4 is the most secure but it is more difficult to remember initially - Don't panic, below we have solutions on keeping passwords.
@@ -28,8 +28,6 @@ There are many different ways your account/password can be taken however we’ll
 3. Data Breach \(See Yahoo Hacks / Cloudbleed\): Sadly companies aren’t perfect and their services either have bugs or get hacked releasing personal information, sometimes including passwords.
 
 ---
-
-
 
 Check out GRC's more detailed write up if youre interested: [https://www.grc.com/haystack.htm](https://www.grc.com/haystack.htm)
 
