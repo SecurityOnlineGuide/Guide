@@ -16,7 +16,7 @@ When receiving an email check the actual email address by clicking on Show more 
 
 But under futher inspection the email address is applehelp@fakecompany.com.
 
-The same goes for **Links or URL’s in emails** you can make a link look like something else, be sure to hover over the url\(DO NOT CLICK\) and see the real address at the bottom left of your screen. Or copy and pasting the URL/Link into a notepad and seeing the true result.
+The same goes for **Links or URL’s in emails** you can make a link look like something else, be sure to hover over the url\(DO NOT CLICK\) and see the real address at the bottom left of your screen. 
 
 If this is slightly overwhelming for you, dont worry but follow this one rule:
 
