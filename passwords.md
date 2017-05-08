@@ -21,7 +21,7 @@ Obviously 4 is the most secure but it is more difficult to remember initially - 
 
 There are many different ways your account/password can be taken however we’ll cover the main ones:
 
-1. BruteForce: This is when a person or program will go through millions of combinations of passwords to break in.
+1. BruteForce: This is when a person or program will go through millions of combinations of passwords to break in. A Dictionary Bruteforce is when a bruteforce program is given a list of all the words in the language to make guessing the password easier.
 
 2. Online Hack: If you have gotten malware your computer is compromised and information on your computer can be sent to the hacker.
 
