@@ -13,7 +13,6 @@
   * [Edge](addons-extensions-and-plugins/edge.md)
 * [Operating Systems](operating-systems.md)
 * [e-Mail](e-mail.md)
-* [Domains](domains.md)
 * [Passwords](passwords.md)
   * [Multiple Passwords](passwords/multiple-passwords.md)
   * [Password Managers](passwords/password-managers.md)
