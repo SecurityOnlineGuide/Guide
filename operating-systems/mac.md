@@ -1,4 +1,4 @@
-# OSX/Mac Operating System
+OSX/Mac Operating System
 
 ## Updating
 
