@@ -7,9 +7,9 @@
 5. Know what youre clicking/visiting/downloading - People take advantage of lack of attention to detail. Make sure your downloading from the correct website, or the correct software. **Always Double Check!**
 6. If you receive an email/link to something or from someone you're unsure of. **Don't click!**
 7. Only visit websites you recognise or know to be reputable.
-8. Use a none Administrator\(Super User\) Account for daily use. \(Read \#OperatingSystems\)
-9. Use 2 Factor Authentication and secure passwords \(Read \#Password\)
-10. When downloading and installing reputable software, It is recommended to click Custom Installation and reading through each section \(Read \#Instal\)
+8. Use a none Administrator\(Super User\) Account for daily use. \(Read [\#OperatingSystems](/operating-systems.md)\)
+9. Use 2 Factor Authentication and secure passwords \(Read [\#Password](/passwords.md)\)
+10. When downloading and installing reputable software, It is recommended to click Custom Installation and reading through each section \(Read [\#Install](/downloading.md)\)
 11. You will never recieve **REAL** phone calls regarding your computer - especially from microsoft. If someone calls you to inform about a virus or something hang up.
 12. Never give out your password to **ANYONE**
 
