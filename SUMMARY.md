@@ -10,8 +10,8 @@
 * [Downloading](downloading.md)
 * [Browsers](browsers.md)
   * [Firefox](browsers/firefox.md)
-  * Chrome
-  * Edge
+  * [Chrome](browsers/chrome.md)
+  * [Edge](browsers/edge.md)
   * Safari
 * [Addons, Extensions & Plugins](addons-extensions-and-plugins.md)
   * [Addons-Chrome](addons-extensions-and-plugins/test.md)
