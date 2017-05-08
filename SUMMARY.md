@@ -28,7 +28,7 @@
   * [Multiple Passwords](passwords/multiple-passwords.md)
   * [Password Managers](passwords/password-managers.md)
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
-  * Google Auth
+  * [Google Auth](two-factor-authentication-2fa/google-auth.md)
   * Authy
   * FreeOTP
 * [IoT/Smart Devices](iotsmart-devices.md)
