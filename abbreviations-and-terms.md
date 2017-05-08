@@ -6,11 +6,7 @@ Cookies - A small file created when visiting a website which stores data specifi
 
 PC - Personal Computer
 
-Remote -
-
 Cloud -
-
-Program/App-
 
 Wifi- Wireless Network \(connecting to the internet without a cable\)
 
