@@ -10,6 +10,10 @@ Please consider that this guide is for a general overview and understanding on b
 
 **If you believe you're computer is compromised - Contact someone with IT knowledge, don't do anything you're unsure about.**
 
+
+
+### [ General Tips](/general-tips.md)
+
 # 
 
 
