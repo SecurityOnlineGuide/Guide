@@ -8,7 +8,5 @@ If a hacker gains access to your first password, there is very little they can d
 
 ![](/assets/2fa.png)
 
-The most secure method is a hardware dongle however an APP is the best middle ground, avoid text based authentication unless there are no other options.
-
-
+The most secure method is a hardware 2fa device however an APP is the best middle ground, avoid text based authentication unless there are no other options.
 
