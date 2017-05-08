@@ -1,3 +1,0 @@
-# Summary
-
-* [SecurityOnlineGuide](README.md)
