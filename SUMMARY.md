@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* General Tips
+* [General Tips](general-tips.md)
 * Malware/Viruses
 * Antivirus
 * Firewall
-* Downloading
+* [Downloading](downloading.md)
 * Browsers
 * Addons, Extensions & Plugins
 * Operating Systems
