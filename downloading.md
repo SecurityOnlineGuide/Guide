@@ -1,8 +1,8 @@
 # **Downloading and Installing - WIP**
 
-Section on Executables
+**Section on Executables**
 
-Point out e-mail Attachments
+**Reputable sources only**
 
 If you're someone who finds themselves with lots of extra software and toolbars we recommend **Unchecky** - [https://unchecky.com/](https://unchecky.com/) - When installing new software there are usually custom options to download other products which most users don't see. This little program will make sure you only install the items you want.
 
