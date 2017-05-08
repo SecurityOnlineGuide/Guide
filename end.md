@@ -2,17 +2,21 @@ I**f this has been helpful please consider donating to keep the site running via
 
 **Further questions, advice, ammendments are encouraged **
 
-Contact at Security Online Guide _at _tuta _dot_ io
+Contact:
+
+> Security Online Guide _at _tuta _dot_ io
 
 # **Creative Commons License**
 
 To Do:
 
-More diagrams
+* [ ] More diagrams
 
-Complete Physical Defense, IoT/Smart Device, Downloading
+* [ ] Complete Physical Defense, IoT/Smart Device, Downloading
 
-Complete Setup for 2FA/Password Managers
+* [ ] Complete Setup for 2FA/Password Managers
 
-Complete e-Mail Phishing section to include Screenshots
+* [ ] Complete e-Mail Phishing section to include Screenshots
+
+
 
