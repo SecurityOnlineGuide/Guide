@@ -1,6 +1,6 @@
 # **E-Mail**
 
-Firstly getting into someone’s e-mail is the **Holy Grail** for a hacker \(Get two factor authentication as soon as possible! See \#2fa\). Accounts passwords can be reset to your email address so once they have your e-mail they can gain access to everything. I recommend having a couple of different email accounts. For example:
+Firstly getting into someone’s e-mail is the **Holy Grail** for a hacker \(Get two factor authentication as soon as possible! See \#2fa\). Accounts passwords can be reset to your email address so once they have your e-mail they can gain access to everything. We recommend having a couple of different email accounts. For example:
 
 1. For none payment services \(Newsletters,free software\)
 2. For Payment services \(paypal/amazon/bank\)
