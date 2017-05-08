@@ -1,4 +1,4 @@
-# **Two Factor Authentication \(2FA\)**
+ **Two Factor Authentication \(2FA\)**
 
 2Factor Authentication is just as if not **MORE important** as having a secure password. As the name suggests it means when logging onto a service you have to provide a second method of authentication. This can be simply a text message with a code, an APP or a piece of hardware.
 
@@ -8,5 +8,5 @@ If a hacker gains access to your first password, there is very little they can d
 
 ![](/assets/2fa.png)
 
-The most secure method is a hardware 2fa device however an app is very secure, avoid text based authentication unless there are no other options as it is the least secure.
+The most secure method is a hardware 2fa device however an app is very secure, avoid text based authentication unless there are no other options as it is the least secure but still alot better than not having one!
 
