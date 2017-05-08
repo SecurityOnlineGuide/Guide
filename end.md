@@ -4,7 +4,7 @@ I**f this has been helpful please consider donating to keep the site running via
 
 Contact:
 
-> Security Online Guide _at _tuta _dot_ io
+> SecurityOnlineGuide** AT **Tuta **D0T** io
 
 # **Creative Commons License**
 
