@@ -14,3 +14,7 @@ Encrypting is a way to hide information by making it unreadable without a system
 
 **Luks\(Linux\) - Guide here**
 
+
+
+**If you do setup encryption - do not forget the password or the recovery key!**
+
