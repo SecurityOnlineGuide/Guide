@@ -9,6 +9,7 @@
 * [e-Mail](e-mail.md)
   * [Phishing](e-mail/phishing.md)
   * [Attachments](e-mail/attachments.md)
+  * [Checking Links](checking-links.md)
 * [Passwords](passwords.md)
   * [Multiple Passwords](passwords/multiple-passwords.md)
   * [Password Managers](passwords/password-managers.md)
