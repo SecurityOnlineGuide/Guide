@@ -29,7 +29,7 @@
 * [Wifi & Routers](wifi-and-routers.md)
 * [VPNS](vpns.md)
 * [Physical Defense](physical-defense.md)
-* Abbreviations and terms
+* [Abbreviations and terms](abbreviations-and-terms.md)
 * [Privacy](privacy.md)
 
 ## End
