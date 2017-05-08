@@ -6,17 +6,17 @@
 * [Antivirus](antivirus.md)
 * [Firewall](firewall.md)
 * [Downloading](downloading.md)
-* Browsers
-* Addons, Extensions & Plugins
-* Operating Systems
-* e-Mail
-* Domains
-* Passwords
-* Two Factor Authentication \(2FA\)
+* [Browsers](browsers.md)
+* [Addons, Extensions & Plugins](addons-extensions-and-plugins.md)
+* [Operating Systems](operating-systems.md)
+* [e-Mail](e-mail.md)
+* [Domains](domains.md)
+* [Passwords](passwords.md)
+* [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
 * IoT/Smart Devices
-* Wifi & Routers
-* Physical Defense
+* [Wifi & Routers](wifi-and-routers.md)
+* [Physical Defense](physical-defense.md)
 * Abbreviations and terms
-* Privacy
-* End
+* [Privacy](privacy.md)
+* [End](end.md)
 
