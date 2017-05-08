@@ -9,10 +9,14 @@
 * [Firewall](firewall.md)
 * [Downloading](downloading.md)
 * [Browsers](browsers.md)
+  * [Firefox](browsers/firefox.md)
+  * Chrome
+  * Edge
+  * Safari
 * [Addons, Extensions & Plugins](addons-extensions-and-plugins.md)
-  * [Chrome](addons-extensions-and-plugins/test.md)
-  * [Firefox](addons-extensions-and-plugins/firefox.md)
-  * [Edge](addons-extensions-and-plugins/edge.md)
+  * [Addons-Chrome](addons-extensions-and-plugins/test.md)
+  * [Addons-Firefox](addons-firefox.md)
+  * [Addons-Edge](addons-extensions-and-plugins/edge.md)
 * [Operating Systems](operating-systems.md)
   * [Windows](operating-systems/windows.md)
   * [Mac](operating-systems/mac.md)

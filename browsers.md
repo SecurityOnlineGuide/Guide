@@ -4,13 +4,7 @@ A browser is a program used to browse the web. It is recommended you use one of 
 
 Whenever you are going to log into a website, use your bank details or anything important or personal check for the Padlock or "https" in the url. This means the connection is secure**. Do not** log in or type personal information without a **Padlock!**
 
-### Firefox \(Created by Mozilla\)
-
-To Update Firefox you will either be prompted automatically or you can check by clicking on "Help -&gt;About" in the menu bar at the top \(if it is not visible hold the ALT button\)
-
-![](/assets/firefox-url.jpg)
-
-_The URL Bar & Padlock in Firefox \(Displaying HTTPS -_ _**SECURE**_** **_connection\)_
+### 
 
 ### Chrome \(Created by Google\)
 
