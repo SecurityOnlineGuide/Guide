@@ -2,7 +2,7 @@ I**f this has been helpful please consider donating to keep the site running via
 
 **Further questions, advice, ammendments are encouraged **
 
-Contact at SecurityOnlineGuide@tuta.io
+Contact at Security Online Guide _at _tuta _dot_ io
 
 # **Creative Commons License**
 
