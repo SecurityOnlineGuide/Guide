@@ -8,9 +8,5 @@ Whenever you are going to log into a website, use your bank details or anything 
 
 ### 
 
-### **Safari** \(Created by Apple\) for OSX and iOS only
 
-![](/assets/safari-url.png)
-
-_The URL Bar & Padlock in Safari \(Displaying HTTPS -_ _**SECURE**_** **_connection\)_
 

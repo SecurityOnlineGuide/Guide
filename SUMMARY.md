@@ -12,7 +12,7 @@
   * [Firefox](browsers/firefox.md)
   * [Chrome](browsers/chrome.md)
   * [Edge](browsers/edge.md)
-  * Safari
+  * [Safari](browsers/safari.md)
 * [Addons, Extensions & Plugins](addons-extensions-and-plugins.md)
   * [Addons-Chrome](addons-extensions-and-plugins/test.md)
   * [Addons-Firefox](addons-firefox.md)
