@@ -1,4 +1,4 @@
-I**f this has been helpful please consider donating to keep the site running via Paypal or BitCoin**
+I**f this has been helpful please consider donating to keep the site running via Paypal or BitCoin \(NYI\)**
 
 **Further questions, advice, ammendments are encouraged **
 
