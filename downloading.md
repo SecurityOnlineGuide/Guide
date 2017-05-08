@@ -1,4 +1,4 @@
-# **Downloading and Installing - WIP**
+# Surfing the Web and Downloading
 
 **Section on Executables**
 

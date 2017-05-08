@@ -16,7 +16,7 @@
   * [Authy](two-factor-authentication-2fa/authy.md)
   * [FreeOTP](two-factor-authentication-2fa/freeotp.md)
 * [Antivirus](antivirus.md)
-* [Downloading](downloading.md)
+* [Surfing the Web and Downloading](downloading.md)
 * [Browsers](browsers.md)
   * [Firefox](browsers/firefox.md)
   * [Chrome](browsers/chrome.md)
