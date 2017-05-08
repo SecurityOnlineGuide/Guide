@@ -12,6 +12,9 @@
   * [Firefox](addons-extensions-and-plugins/firefox.md)
   * [Edge](addons-extensions-and-plugins/edge.md)
 * [Operating Systems](operating-systems.md)
+  * [Windows](operating-systems/windows.md)
+  * [Mac](operating-systems/mac.md)
+  * Linux
 * [e-Mail](e-mail.md)
 * [Passwords](passwords.md)
   * [Multiple Passwords](passwords/multiple-passwords.md)
