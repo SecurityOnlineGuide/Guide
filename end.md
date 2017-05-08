@@ -4,17 +4,13 @@ I**f this has been helpful please consider donating to keep the site running via
 
 # **Creative Commons License**
 
-
-
 To Do:
 
 More diagrams
 
-Complete Physical Defense, IoT/Smart Device 
+Complete Physical Defense, IoT/Smart Device
 
 Complete Setup for 2FA/Password Managers
 
-Complete
-
-
+Complete e-Mail Phishing section to include Screenshots
 
