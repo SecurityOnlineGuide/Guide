@@ -18,6 +18,9 @@
   * [Multiple Passwords](passwords/multiple-passwords.md)
   * [Password Managers](passwords/password-managers.md)
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
+  * Google Auth
+  * Authy
+  * FreeOTP
 * [IoT/Smart Devices](iotsmart-devices.md)
 * [Wifi & Routers](wifi-and-routers.md)
 * [Physical Defense](physical-defense.md)
