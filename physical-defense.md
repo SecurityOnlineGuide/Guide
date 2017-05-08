@@ -8,7 +8,9 @@ Encrypting is a way to hide information by making it unreadable without a system
 
 **Veracrypt \(Most major operating systems\) **[https://veracrypt.codeplex.com/](https://veracrypt.codeplex.com/)
 
-**BitLocker \(Windows 10\)**
+**BitLocker \(Windows 10\) - Guide Here**
 
-**FileVault \(Mac\)**
+**FileVault \(Mac\) - Guide Here**
+
+**Luks\(Linux\) - Guide here**
 
