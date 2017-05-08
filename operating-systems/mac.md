@@ -8,9 +8,5 @@ Visit the App Store and click the Updates tab and update all. If you do not see 
 
 ## None Super User/Admin Account
 
-
-
-User and groups
-
-
+Settings -&gt; User and groups
 
