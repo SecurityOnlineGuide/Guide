@@ -29,7 +29,7 @@ There are many different ways your account/password can be taken however we’ll
 
 ---
 
-Check out GRC's more detailed write up if youre interested: [https://www.grc.com/haystack.htm](https://www.grc.com/haystack.htm)
+Check out GRC's more detailed write up on password strength if youre interested: [https://www.grc.com/haystack.htm](https://www.grc.com/haystack.htm)
 
 ### 
 
