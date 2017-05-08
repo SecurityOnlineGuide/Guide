@@ -2,7 +2,7 @@
 
 Cookies - A small file created when visiting a website which stores data specific to that user \(login session, personal information\)
 
-2FA - Two Factor Authentication \(description\)
+[2FA - Two Factor Authentication ](/two-factor-authentication-2fa.md)
 
 PC - Personal Computer
 
