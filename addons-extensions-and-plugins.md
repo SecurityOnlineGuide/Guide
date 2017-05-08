@@ -1,20 +1,6 @@
 # **Addons/Extensions and Plugins for Browsers**
 
-Addons \(also known as Extensions\) are used to improve the experience within the browser.However addons are like any other download and can be used maliciously. Use caution when installing addons \(check reviews, see if it is legitimate, or if you really need it\). You obtain them through each official browsers "Store".
-
-Which can be found via:
-
-![](/assets/firefox-addons.png)
-
-_Firefox how to get extensions_
-
-![](/assets/chrome-addons.png)
-
-Chrome how to get Extensions
-
-![](/assets/edge-addons.png)
-
-_Edge how to get Extensions_
+Addons \(also known as Extensions\) are used to improve the experience within the browser.However addons are like any other download and can be used maliciously. Use caution when installing addons \(check reviews, see if it is legitimate, or if you really need it\). You obtain them through each official browsers "Store" in [Chrome](/addons-extensions-and-plugins/test.md), [Firefox](/addons-extensions-and-plugins/firefox.md), [Edge](/addons-extensions-and-plugins/edge.md)
 
 Recommended Addons:
 

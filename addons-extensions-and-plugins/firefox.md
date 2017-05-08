@@ -1,0 +1,2 @@
+![](/assets/firefox-addons.png)
+
