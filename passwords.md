@@ -4,7 +4,7 @@ Passwords are used to keep your account private. Rather than going into detail o
 
 1. Password Length: A password security increases exponentially with each added character. I recommend using atleast 15+ characters in passwords and the higher the better!
 2. Password Symbols/Numbers/LowerCase/UpperCase: Using a variety of Symbols, Numbers and different cases makes bruteforcing more difficult.
-3. ## Complicating Words in Passwords: If youre using words or sentences - try and substitute letters or remove. This will make a dictionary bruteforce attempt harder.
+3. Complicating Words in Passwords: If youre using words or sentences - try and substitute letters or remove. This will make a dictionary bruteforce attempt harder.
 
 Lets look into a couple of different passwords:
 
@@ -47,7 +47,7 @@ Now all 3 systems have their pros and cons, choose which suits you best but make
 
 ---
 
-Check out GRC's more detailed write up if youre interested: https://www.grc.com/haystack.htm
+Check out GRC's more detailed write up if youre interested: [https://www.grc.com/haystack.htm](https://www.grc.com/haystack.htm)
 
 ### **If you have chosen to use a password manager. We recommend trying:**
 
