@@ -8,3 +8,7 @@ Research into different VPNs; Find out what youre looking for.
 
 Some are no log policies and others aren't.
 
+
+
+![](/assets/VPN.png)
+
