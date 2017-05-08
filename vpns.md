@@ -12,5 +12,7 @@ Please note: Not everyone needs a VPN this is an additional step for your securi
 
 Research into different paid VPNs; Figure out what youre looking for. Some are no log policies and others aren't. Depending on your price range and purpose find a VPN Provider which suits you. Always check reviews!
 
+
+
 ![](/assets/VPN.png)
 
