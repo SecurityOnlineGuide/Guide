@@ -1,2 +1,6 @@
-Include information on insecurity of Smart Devices.
+# Smart Devices
+
+To be added.
+
+
 
