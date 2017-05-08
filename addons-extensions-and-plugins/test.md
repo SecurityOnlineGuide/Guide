@@ -1,2 +1,4 @@
-![](/assets/chrome-addons.png)
+# ![](/assets/chrome-addons.png)Chrome Extensions Guide
+
+
 
