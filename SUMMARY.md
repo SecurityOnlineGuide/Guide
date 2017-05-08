@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [General Tips](general-tips.md)
 * [Malware/Viruses](malwareviruses.md)
+  * [Types of Viruses](malwareviruses/types-of-viruses.md)
 * [e-Mail](e-mail.md)
   * [Phishing](e-mail/phishing.md)
   * [Attachments](e-mail/attachments.md)
