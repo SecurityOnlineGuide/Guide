@@ -30,7 +30,7 @@
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
   * [Google Auth](two-factor-authentication-2fa/google-auth.md)
   * [Authy](two-factor-authentication-2fa/authy.md)
-  * FreeOTP
+  * [FreeOTP](two-factor-authentication-2fa/freeotp.md)
 * [IoT/Smart Devices](iotsmart-devices.md)
 * [Wifi & Routers](wifi-and-routers.md)
 * [VPNS](vpns.md)
