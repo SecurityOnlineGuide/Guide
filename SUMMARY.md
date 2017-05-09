@@ -1,6 +1,6 @@
 # Summary
 
-## Guidebook on Online Security
+## Guidebook on Online Security and Safety
 
 * [Introduction](README.md)
 * [General Tips](general-tips.md)
