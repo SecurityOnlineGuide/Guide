@@ -11,9 +11,9 @@ Download the appropriate browser extension and follow the instructions below. Bi
 
 **Please consider enabling 2 Factor Authentication \(Found in Settings -&gt; Two Step Login and reading the article below on **[**\#2FA**](/two-factor-authentication-2fa.md)**\)**![](/assets/bitwarden.png)
 
-![](/assets/bitwarden.png)
 
-![](/assets/bitwarden.png)
 
-![](/assets/bitwarden.png)
+
+
+
 
