@@ -10,7 +10,7 @@ _Recommended for ease of use for multiple devices and if you prefer open source 
 
 **LastPass**
 
-This is a comercial product with a free version with easy sync between multiple devices \(phones, tablets, computers\). _Recommended for ease of use for multiple devices_
+This is a comercial product with a free version with easy sync between multiple devices \(phones, tablets, computers\). _Recommended for ease of use for multiple devices _
 
 **Keepass -** This is a Open Source local only Password manager meaning syncing between multiple devices is less straight forward.
 
