@@ -1,5 +1,7 @@
 # Security Online Guide {#securityonlineguide}
 
+![](/assets/Logo.png)
+
 # **Guidebook**
 
 _**This guide is a work in progress**_
