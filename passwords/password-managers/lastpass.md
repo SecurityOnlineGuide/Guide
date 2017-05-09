@@ -1,6 +1,6 @@
 # LastPass
 
-[https://www.lastpass.com/](https://www.lastpass.com/)
+[https://www.lastpass.com/](https://www.lastpass.com/)                                                                      [Skip Past BitWarden/Keepass Instructions to next Topic](/two-factor-authentication-2fa.md)
 
 Download the appropriate browser extension and follow the instructions below. LastPass is activated by pressing the grey \(or red\) 3 dots icon along your menu bar at the top.
 

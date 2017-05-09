@@ -1,6 +1,6 @@
 # BitWarden
 
-[https://bitwarden.com/\#download](https://bitwarden.com/#download)
+[https://bitwarden.com/\#download](https://bitwarden.com/#download)                                                                                  [Skip Past Keepass Instructions to next Topic](/two-factor-authentication-2fa.md)
 
 Download the appropriate browser extension and follow the instructions below. BitWarden is activated by pressing the blue abd white shield along your menu bar at the top.
 
