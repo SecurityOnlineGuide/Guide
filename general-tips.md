@@ -2,7 +2,7 @@
 
 To start this guide off here are a list of 12 general tips which you should follow! The rest of the guide will go into detail on subjects.
 
-1. Don't panic, take your time. If you're unsure about something, don't click/respond/interact with it until you're sure of what to do. These attempts try to take advantage of your vulnerable state to get what they want. Take a deep breath.
+1. Don't panic, take your time. If you're unsure about something, don't interact with it until you're sure of what to do. These attempts try to take advantage of your vulnerable state to get what they want. Take a deep breath.
 2. Always have a back up - or two or three... Having backups of your valued photos/documents/etc off your computer \(on a flash drive/external harddrive/cloud\) is something not to avoid, even without a virus infection - computers fail. Play it safe and back up!
 3. Be careful when downloading. Know what youre downloading and make sure it's from the official website \(ie Google Chrome only from Google.com\)
 4. Adblockers will save you countless times - seriously consider getting one\(see browser addons section for recommendation\)
