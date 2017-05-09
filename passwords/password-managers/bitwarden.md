@@ -1,4 +1,4 @@
-# [Keepass](/passwords/password-managers/keepass.md)BitWarden
+# BitWarden
 
 [https://bitwarden.com/\#download](https://bitwarden.com/#download)
 
