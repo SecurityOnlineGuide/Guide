@@ -12,7 +12,7 @@ _ Please note this is different from a User Password for logging onto the comput
 
 **BitLocker \(Windows 10 Enterprise\) - **Bitlocker is microsofts built in Encryption program however it is only available for Windows 10 Enterprise and up.
 
-**FileVault \(Mac\) -** Go to System Preferences, then Security & Privacy. Click the Filevault tab and follow instructions from there. **DO NOT FORGET THE PASSWORD**
+**FileVault \(Mac\) -** Go to System Preferences, then Security & Privacy. Click the Filevault tab and follow instructions from there. 
 
 **DMCRYPT/Luks\(Linux\) - **This process is usually done on first install of operating system.
 

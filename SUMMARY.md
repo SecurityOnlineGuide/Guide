@@ -40,7 +40,6 @@
 * [Physical Defense](physical-defense.md)
 * [Firewall](firewall.md)
 * [Abbreviations and terms](abbreviations-and-terms.md)
-* [Virus Removal](virus-removal.md)
 
 ## End
 
