@@ -8,11 +8,11 @@ Firstly in the top right, downloads are usually symbolised by the down arrow. On
 
 ### **Section on Reputable websites**
 
-Text
+Searching online with a search engine \(Google, Bing, Duckduckgo\) the website in question. For example you want to find Paypals website. After entering the name into the search box you now have a list of results, on the right hand side is some information about the company including the website address. In the middle is the search results from our search "Paypal" we can confirm this by cross referencing the middle and right addresses.![](/assets/reviewing.png)
 
-### **Section on reviews and finding out if somethign is safe**
+### Still Unsure?
 
-Text
+Also visiting [https://global.sitesafety.trendmicro.com/](https://global.sitesafety.trendmicro.com/) and entering the address in the box this will give you a good idea if it the site in question is safe or not. From their website: "Scores are assigned based on factors such as a website's age, historical locations, changes, and indications of suspicious activities discovered through malware behavior analysis. We've advanced how we apply web reputation to keep pace with new types of criminal attacks that can come and go very quickly, or try to stay hidden."
 
 ### Useful Programs/Websites
 
