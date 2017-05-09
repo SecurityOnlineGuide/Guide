@@ -1,5 +1,7 @@
 # Surfing the Web and Downloading
 
+Make use of bookmarks for easy browsing experience, a bookmark saves a web address \(URL\) for later use making it easy to revisit something. To make a bookmark go to the page you wish to save for later use and hit the star on the menu bar.
+
 ### HTTPS/Secure Connections
 
 Whenever you are going to log into a website, use your bank details or anything important or personal check for the Padlock or "https" in the url. This means the connection is secure  \(encrypted so people aside from you and the website are unable to read it\)**. Do not** log in or type personal information without a **Padlock! **You can find screenshots of this in the [\#browser ](/browsers.md)section.
