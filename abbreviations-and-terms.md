@@ -6,7 +6,7 @@ Cookies - A small file created when visiting a website which stores data specifi
 
 PC - Personal Computer
 
-Cloud -
+Cloud - Information/Data stored on the internet for easy connectivity?
 
 Wifi- Wireless Network \(connecting to the internet without a cable\)
 
