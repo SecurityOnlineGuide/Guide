@@ -1,6 +1,10 @@
 # Surfing the Web and Downloading
 
-### **Section on Executables**
+### HTTPS/Secure Connections
+
+Whenever you are going to log into a website, use your bank details or anything important or personal check for the Padlock or "https" in the url. This means the connection is secure**. Do not** log in or type personal information without a **Padlock!**
+
+### Downloads
 
 Downloading things off the internet and running them without care or caution is a sure fire way to get yourself infected. Make sure you need what you are downloading, have checked it's from the official source, and the Open File - Security Warning displays the correct publisher. Look at the example below:![](/assets/downloading.png)
 

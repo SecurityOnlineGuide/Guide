@@ -9,7 +9,11 @@ A browser is a program used to browse the web. It is recommended you use one of 
 
 ![](/assets/safarii.png)Apple Safari - This Browser is only available for Mac/OSX and iOS \(iPhone/iPad\)
 
-Whenever you are going to log into a website, use your bank details or anything important or personal check for the Padlock or "https" in the url. This means the connection is secure**. Do not** log in or type personal information without a **Padlock!**
+
+
+
+
+
 
 ### 
 
