@@ -11,5 +11,7 @@ Download the Profession Edition \(2.XX\) and follow the instructions on the inst
 
 4.5 Open Password Generator the Key icon and tell it to generate a password within these parametres.
 
+5. Done!
+
 ![](/assets/keepass.png)
 
