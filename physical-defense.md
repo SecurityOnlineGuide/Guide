@@ -14,7 +14,7 @@ _ Please note this is different from a User Password for logging onto the comput
 
 **FileVault \(Mac\) -** Go to System Preferences, then Security & Privacy. Click the Filevault tab and follow instructions from there. **DO NOT FORGET THE PASSWORD**
 
-**DMCRYPT/Luks\(Linux\) - **This process is usually done on first install of operating system,
+**DMCRYPT/Luks\(Linux\) - **This process is usually done on first install of operating system.
 
 ## **If you do setup encryption - do not forget the password or the recovery key!**
 
