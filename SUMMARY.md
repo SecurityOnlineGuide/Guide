@@ -12,6 +12,7 @@
   * [Attachments](e-mail/attachments.md)
 * [Surfing the Web and Downloading](downloading.md)
   * [Domains](downloading/domains.md)
+  * [Useful Programs/Websites](downloading/useful-programswebsites.md)
 * [Passwords](passwords.md)
   * [Multiple Passwords](passwords/multiple-passwords.md)
   * [Password Managers](passwords/password-managers.md)
