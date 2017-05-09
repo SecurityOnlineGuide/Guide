@@ -2,7 +2,7 @@
 
 Antiviruses are software suites which keep a constant eye on your computer and try and prevent and assist you if malware is found.
 
-Windows Defender has come along way in the past years and for general usage should be enough, Have realtime protection enabled, with SmartScreen enabled. If you're looking for a hardened experience you can consider buying Malwarebytes Premium or Kaspersky Lab/BitDefender \(Feel free to look into reviews yourself, but this was our findings as of May 2017\)
+Windows Defender _\(The built in antivirus for Windows 7+\)_ has come along way in the past years and for general usage should be enough, Have realtime protection enabled, with SmartScreen enabled. If you're looking for a hardened experience you can consider buying Malwarebytes Premium or Kaspersky Lab/BitDefender \(Feel free to look into reviews yourself, but this was our findings as of May 2017\)
 
 For Mac
 
@@ -12,7 +12,7 @@ Macs/OSX are built differently and a smaller market meaning there is less malwar
 
 Malware removal is sometimes a difficult task, however there are reputable programs used to remove or prevent Malware.
 
-Malwarebytes is the industry leader for removal found here [https://www.malwarebytes.com/](https://www.malwarebytes.com/) \(Windows\) and https://www.malwarebytes.com/mac/ \(Mac\) - The Free version has no active protection but does a successful job at removing malware already on your system
+Malwarebytes is the industry leader for removal found here [https://www.malwarebytes.com/](https://www.malwarebytes.com/) \(Windows\) and [https://www.malwarebytes.com/mac/](https://www.malwarebytes.com/mac/) \(Mac\) - The Free version has no active protection but does a successful job at removing malware already on your system
 
 I recommend looking at this internet thread for a more detailed guide of difficult to remove Malware!
 

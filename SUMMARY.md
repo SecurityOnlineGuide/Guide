@@ -23,7 +23,7 @@
   * [Google Auth](two-factor-authentication-2fa/google-auth.md)
   * [Authy](two-factor-authentication-2fa/authy.md)
   * [FreeOTP](two-factor-authentication-2fa/freeotp.md)
-* [Antivirus & Removing Viruses](antivirus.md)
+  * [AntiVirus & Virus Removal](antivirus.md)
 * [Browsers](browsers.md)
   * [Firefox](browsers/firefox.md)
   * [Chrome](browsers/chrome.md)
