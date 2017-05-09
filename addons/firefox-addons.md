@@ -1,6 +1,8 @@
-![](/assets/firefox-addons.png)
+
 
 # Firefox Extension Guide
+
+![](/assets/firefox-addons.png)
 
 
 
