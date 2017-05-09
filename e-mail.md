@@ -6,9 +6,7 @@ Firstly getting into someone’s e-mail is the **Holy Grail** for a hacker \(Get
 2. For Payment services \(paypal/amazon/bank\)
 3. For Personal \(e-mailing family and friends\)
 
-This reduces your risk if one gets breached, it also keeps everything more organised!
+Not only does this make phishing emails easier to figure out \(Money Scam on your Personal one\) but this also reduces your risk if one account gets breached, it also keeps everything more organised!
 
 ![](/assets/Email compartmentalisation.png)
-
-
 
