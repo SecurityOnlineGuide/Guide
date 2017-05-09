@@ -2,11 +2,13 @@
 
 When receiving an email check the actual email address by clicking on Show more Details \(depends on the website/app, maybe its two arrows to extend the information\) next to their and your name at the top or clicking on the senders name.
 
-For example you may recieve an email from “Apple Help” But under futher inspection the email address is applehelp@fakecompany.com. 
+For example you may recieve an email from “Apple Help” But under futher inspection the email address is applehelp@fakecompany.com.
 
 Below are two examples, the first being a legitimate email from google. The second being a fake!
 
 ![](/assets/gmail email.png)
+
+---
 
 ![](/assets/hotmail.png)
 
