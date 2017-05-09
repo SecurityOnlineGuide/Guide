@@ -12,7 +12,7 @@ Encrypting is a way to hide information by making it unreadable without a system
 
 **FileVault \(Mac\) -** Go to System Preferences, then Security & Privacy. Click the Filevault tab and follow instructions from there. **DO NOT FORGET THE PASSWORD**
 
-**DMCRYPT/Luks\(Linux\) - **
+**DMCRYPT/Luks\(Linux\) - **This process is usually done on first install of operating system,
 
 ## **If you do setup encryption - do not forget the password or the recovery key!**
 
