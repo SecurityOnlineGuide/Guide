@@ -2,7 +2,7 @@
 
 ### HTTPS/Secure Connections
 
-Whenever you are going to log into a website, use your bank details or anything important or personal check for the Padlock or "https" in the url. This means the connection is secure**. Do not** log in or type personal information without a **Padlock!**
+Whenever you are going to log into a website, use your bank details or anything important or personal check for the Padlock or "https" in the url. This means the connection is secure**. Do not** log in or type personal information without a **Padlock! **You can find screenshots of this in the [\#browser ](/browsers.md)section.
 
 ### Downloads
 
