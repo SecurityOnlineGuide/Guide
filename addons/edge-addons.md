@@ -1,6 +1,6 @@
-![](/assets/edge-addons.png)
-
 # Edge Extension Guide
+
+![](/assets/edge-addons.png)
 
 
 
