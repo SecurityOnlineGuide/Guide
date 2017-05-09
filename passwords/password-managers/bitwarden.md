@@ -9,5 +9,11 @@ Download the appropriate browser extension and follow the instructions below. Bi
 3. Create a new login and generate passwords
 4. To retrieve the saved information, go to the log on page and at the top right BitWarden Icon should display a number to show you have 1 possible login. Click that then the information and the extension will autofill out the form for you!
 
+**Please consider enabling 2 Factor Authentication \(Found in Settings -&gt; Two Step Login and reading the article below on **[**\#2FA**](/two-factor-authentication-2fa.md)**\)**![](/assets/bitwarden.png)
+
+![](/assets/bitwarden.png)
+
+![](/assets/bitwarden.png)
+
 ![](/assets/bitwarden.png)
 

@@ -15,7 +15,7 @@
 * [Passwords](passwords.md)
   * [Multiple Passwords](passwords/multiple-passwords.md)
   * [Password Managers](passwords/password-managers.md)
-    * LastPass
+    * [LastPass](passwords/password-managers/lastpass.md)
     * [Keepass](passwords/password-managers/keepass.md)
     * [BitWarden](passwords/password-managers/bitwarden.md)
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
