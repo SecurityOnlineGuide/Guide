@@ -4,7 +4,7 @@
 
 Encrypting is a way to hide information by making it unreadable without a system/key/password. It should be used on your Phone/Tablet/Laptop \(any computer device which contains personal information on\). With the programs below this allows you to hide your information and make it unable to view the computer without the password incase someone steals the device!
 
-_ Please note this is different from a User Password for signing into the computer. _
+_ Please note this is different from a User Password for logging onto the computer. _
 
 ![](/assets/encryption.png)
 
