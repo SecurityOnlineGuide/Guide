@@ -6,13 +6,13 @@ Encrypting is a way to hide information by making it unreadable without a system
 
 ![](/assets/encryption.png)
 
-**Veracrypt \(Most major operating systems\) **[https://veracrypt.codeplex.com/](https://veracrypt.codeplex.com/)
+**Veracrypt \(Most major operating systems\) **[https://veracrypt.codeplex.com/](https://veracrypt.codeplex.com/) This software is able to encrypt both files/folders and operating systems.
 
-**BitLocker \(Windows 10\) - Guide Here**
+**BitLocker \(Windows 10 Enterprise\) - **Bitlocker is microsofts built in Encryption program however it is only available for Windows 10 Enterprise and up.
 
-**FileVault \(Mac\) - Guide Here**
+**FileVault \(Mac\) -** Go to System Preferences, then Security & Privacy. Click the Filevault tab and follow instructions from there. **DO NOT FORGET THE PASSWORD**
 
-**Luks\(Linux\) - Guide here**
+**DMCRYPT/Luks\(Linux\) - **
 
 ## **If you do setup encryption - do not forget the password or the recovery key!**
 
