@@ -6,5 +6,5 @@ Windows Defender has come along way in the past years and for general usage shou
 
 For Mac
 
-Our findings found AVG antivirus and BitDefender to be the most successful antiviruses for Mac/OSX as of May 2017
+Macs/OSX are built differently and a smaller market meaning there is less malware created for them, this does not mean that you are perfectly safe! With smart browsing habits an active antivirus is not needed. However if you feel you need a hardened experience check out AVG antivirus and BitDefender, these two were the highest rated/sucessful antivirus  for Mac/OSX as of May 2017.
 
