@@ -4,7 +4,7 @@
 
 Authy is the leading 2 Factor service, with a great guide on how to add 2Factor to individual accounts[, if you need step by step guide, check out here](https://authy.com/guides/)!
 
-Recommended if you want to use multiple devices to get your codes, back it up incase you lose your device and more features!
+_Recommended if you want to use multiple devices to get your codes, back it up incase you lose your device and more features!_
 
 # Google Authenticator
 
