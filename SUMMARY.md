@@ -4,30 +4,29 @@
 
 * [Introduction](README.md)
 * [General Tips](general-tips.md)
-* [Malware/Viruses](malwareviruses.md)
-  * [Types of Viruses](malwareviruses/types-of-viruses.md)
-* [e-Mail](e-mail.md)
-  * [Phishing](e-mail/phishing.md)
-  * [Checking Links](checking-links.md)
-  * [Attachments](e-mail/attachments.md)
-* [Surfing the Web and Downloading](downloading.md)
-  * [Domains](downloading/domains.md)
-  * [Useful Programs/Websites](downloading/useful-programswebsites.md)
-* [Passwords](passwords.md)
-  * [Multiple Passwords](passwords/multiple-passwords.md)
-  * [Password Managers](passwords/password-managers.md)
-    * [LastPass](passwords/password-managers/lastpass.md)
-    * [BitWarden](passwords/password-managers/bitwarden.md)
-    * [Keepass](passwords/password-managers/keepass.md)
-* [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
-  * [Different Apps](two-factor-authentication-2fa/authy-google-auth-freeotp.md)
-  * [Setting up 2fa](two-factor-authentication-2fa/setting-up-2fa.md)
 * [Operating Systems](operating-systems.md)
   * [Linux](operating-systems/linux.md)
   * [Mac](operating-systems/mac.md)
   * [Windows](operating-systems/windows.md)
+* [IoT/Smart Devices](iotsmart-devices.md)
+* [Abbreviations and terms](abbreviations-and-terms.md)
+
+## Malware and Viruses
+
+* [Malware/Viruses](malwareviruses.md)
+  * [Types of Viruses](malwareviruses/types-of-viruses.md)
 * [AntiVirus](antivirus.md)
 * [Virus Removal](virus-removal.md)
+
+## The Web and Software
+
+* [Surfing the Web and Downloading](downloading.md)
+  * [Domains](downloading/domains.md)
+  * [Useful Programs/Websites](downloading/useful-programswebsites.md)
+* [e-Mail](e-mail.md)
+  * [Phishing](e-mail/phishing.md)
+  * [Checking Links](checking-links.md)
+  * [Attachments](e-mail/attachments.md)
 * [Browsers](browsers.md)
   * [Firefox](browsers/firefox.md)
   * [Chrome](browsers/chrome.md)
@@ -37,11 +36,24 @@
   * [Firefox Addons](addons/firefox-addons.md)
   * [Chrome Addons](addons/chrome-addons.md)
   * [Edge Addons](addons/edge-addons.md)
+
+## Account Security
+
+* [Passwords](passwords.md)
+  * [Multiple Passwords](passwords/multiple-passwords.md)
+  * [Password Managers](passwords/password-managers.md)
+    * [LastPass](passwords/password-managers/lastpass.md)
+    * [BitWarden](passwords/password-managers/bitwarden.md)
+    * [Keepass](passwords/password-managers/keepass.md)
+* [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
+  * [Different Apps](two-factor-authentication-2fa/authy-google-auth-freeotp.md)
+  * [Setting up 2fa](two-factor-authentication-2fa/setting-up-2fa.md)
+
+## Routers, Smart Devices and Firewalls
+
 * [Wifi & Routers](wifi-and-routers.md)
-* [IoT/Smart Devices](iotsmart-devices.md)
 * [Physical Defense](physical-defense.md)
 * [Firewall](firewall.md)
-* [Abbreviations and terms](abbreviations-and-terms.md)
 
 ## End
 

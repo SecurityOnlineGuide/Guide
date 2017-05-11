@@ -4,7 +4,7 @@
 
 * Device Settings - Passwords on Routers/Smart Devices/IoT devices **must be changed from the default** when obtained - feel free to write the new password down but do not use the default one**. Do not take this lightly.** Remote access to your devices can easily done if using the default password.
 
-* Routers - A router is the box connecting you to the internet. There are two main settings you need to confirm are in the right state:
+* Routers - A router is the box connecting you to the internet. There are a couple of main settings you need to confirm are in the right state:
 
 * In your router settings \(generally found at the URL 192.168.2.1\) Turn off Universal Plug and Play \(uPNP\) - this mode has many security issues and can allow external hackers access , You will know if you need it but 99% of people DO NOT.
 
