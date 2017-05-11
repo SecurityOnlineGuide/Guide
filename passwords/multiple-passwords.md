@@ -20,7 +20,7 @@ Password when using Seddit: I,Ble55.Th3-Ra1ns?**SED** \(Adding SED for **SED**DI
 
 ---
 
-**2.**Using a password manager. This is a piece of software or addon for browsers which save the passwords you use. Think of it as a Vault or Safe, You're storing all your passwords in there for the computer to remember.
+**2.**Using a password manager. This is a piece of software or addon for browsers which save the passwords you use. Think of it as a Vault or Safe, You're storing all your passwords in there for the computer/cloud to remember.
 
 **Pros:** Allows you to use very very complicated long passwords, which means more security. You also never need to remember passwords again \(except the master password to enter\)
 
