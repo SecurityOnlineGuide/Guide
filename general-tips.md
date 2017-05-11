@@ -14,7 +14,7 @@ To start this guide off here are a list of 12 general tips which you should foll
 10. Use 2 Factor Authentication and secure passwords \(Read [\#Password](/passwords.md) & [\#2fa](/two-factor-authentication-2fa.md)\)
 11. When downloading and installing reputable software, It is recommended to click Custom Installation and reading through each section \(Read \#[Downloading](/downloading.md)\)
 12. You will never recieve **REAL** phone calls regarding your computer - especially from microsoft. If someone calls you to inform about a virus or something hang up.
-13. Never give out your password to **ANYONE**
+13. Never give out your password to **ANYONE.**
 
 
 
