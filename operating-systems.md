@@ -6,5 +6,5 @@ Whether you use Windows/Mac/Linux for your computer or Android/iOS for your smar
 
 When using a computer for daily use you do not require Administrative powers, Browsing the web, checking emails can be done on a standard user account. By logging onto your standard account it makes it harder for viruses to get into your computer as Adminsitrators have more control over the computer \(installing software etc\).
 
-
+![](/assets/Super User.png)
 
