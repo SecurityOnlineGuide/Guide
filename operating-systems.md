@@ -1,6 +1,6 @@
 # **Operating Systems**
 
-Whether you use Windows/Mac/Linux for your computer or Android/iOS for your smart phone **updating is vital**. From my experience most people hate getting updates however majority of the time they are there for your safety! New ways to break into computers are found all the time and your system needs an update to fix it. Consider checking for updating atleast once a week!
+Whether you use Windows/Mac/Linux for your computer or Android/iOS for your smart phone **updating is vital**. From my experience most people hate getting updates however majority of the time they are there for your safety! New ways to break into computers are found all the time and your system needs an update to fix it. Consider checking for updating atleast once a week! On the next page you will find information on how to update on your operating system.
 
 ### None Admin\(Super User\) Account
 
