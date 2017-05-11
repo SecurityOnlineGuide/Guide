@@ -56,6 +56,7 @@
 
 ## Final Notes
 
+* [Privacy](privacy.md)
 * [News - Recent Security Issues](news-recent-security-issues.md)
 * [Info](end.md)
 * [Abbreviations and terms](abbreviations-and-terms.md)
