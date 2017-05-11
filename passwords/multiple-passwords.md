@@ -4,7 +4,7 @@ A lot of  people fail to realise that using the** same** password for different 
 
 You have an account on Stroodlemail.com, the service or you accidentally expose your account details \(these things do happen - see the recent yahoo hacks - [link here](https://en.wikipedia.org/wiki/Yahoo!_data_breaches)\). Your email address and password are now out for anyone to see, people will now try using this information on different services - if you use the same password elsewhere - they are now in your other accounts.
 
-You have multiple options with different passwords:
+#### You have multiple options with different passwords:
 
 **1.**Having one major secure password and adding an unique code at the end of each different service. for example:
 
