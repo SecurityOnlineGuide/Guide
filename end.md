@@ -8,6 +8,10 @@ Contact:
 
 # **Creative Commons License**
 
+
+
+This guide is aimed to help you understand the world of computer security better however an advice given is liable 
+
 To Do:
 
 * [ ] Complete IoT/Smart Device,
