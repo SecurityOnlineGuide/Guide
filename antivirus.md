@@ -1,5 +1,7 @@
 # **AntiVirus**
 
+**The best defense against viruses is knowledge and common sense!**
+
 Antiviruses are software suites which keep a constant eye on your computer and try and prevent and assist you if malware is found. To keep a long discussion short there is debate as to whether or not an active antivirus actually makes it easier for viruses in modern times. If youre interested in reading more detailed on this topic consider reading [TheRegister.co.uk's Article](https://www.theregister.co.uk/2017/01/27/gag_free_ex_mozilla_dev_joins_antivirus_roasting_chorus_its_poison/).
 
 Windows Defender _\(The built in antivirus for Windows 7+\)_ has come along way in the past years and for general usage should be enough, Have realtime protection enabled, with SmartScreen enabled.![](/assets/Smart Screen.png)
