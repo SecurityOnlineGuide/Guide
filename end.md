@@ -8,9 +8,7 @@ Contact:
 
 # **Creative Commons License**
 
-
-
-This guide is aimed to help you understand the world of computer security better however an advice given is liable 
+_This guide is aimed to help you understand the world of computer security better however an advice given is liable for any damages._
 
 To Do:
 
