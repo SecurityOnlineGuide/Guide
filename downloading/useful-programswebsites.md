@@ -4,7 +4,7 @@
 
 **SiteSafety by TrendMicro ** - [https://global.sitesafety.trendmicro.com/](https://global.sitesafety.trendmicro.com/)_ \(Consider bookmarking, the star in the menu bar\) _
 
-The site is used by entering the address in the box and results will give you a good idea if it the site in question is safe or not.
+The site is used by entering the address in the box and the results will give you a good idea if it the site in question is safe or not.
 
 From their website: "Scores are assigned based on factors such as a website's age, historical locations, changes, and indications of suspicious activities discovered through malware behavior analysis. We've advanced how we apply web reputation to keep pace with new types of criminal attacks that can come and go very quickly, or try to stay hidden."
 
