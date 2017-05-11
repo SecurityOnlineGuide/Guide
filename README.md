@@ -6,7 +6,7 @@
 
 _**This guide is a work in progress**_
 
-This guide will hopefully help you understand internet security and feel safe and secure when browsing the internet. The focus will mainly be on home computers directed at the less technical user who doesn't have the time to research themselves but hopefully can be useful for everyone.
+This guide will hopefully help you understand internet security, feel safe and give you a general understanding of Accounts/Passwords, Your operating system, Software, e-mail and more. The focus will mainly be on home computers directed at the less technical user who doesn't have the time to research themselves but hopefully can be useful for everyone.
 
 It'll cover topics from malware, to surfing the web, downloading, passwords, two factor authentication, addons, and more
 
