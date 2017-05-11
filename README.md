@@ -6,7 +6,7 @@
 
 _**This guide is a work in progress**_
 
-This guide will hopefully help you understand internet security, feel safe and give you a general understanding of Accounts/Passwords, Your operating system, Software, e-mail and more. The focus will mainly be on home computers directed at the less technical user who doesn't have the time to research themselves but hopefully can be useful for everyone.
+This guide will hopefully help you understand internet security, feel safe and give you a general understanding of Accounts/Passwords, Your operating system, Software, e-mail and more. The focus will mainly be on home computers directed at the less technical user who doesn't have the time to research themselves but might be useful for even the more tech savy user.
 
 Please consider that this guide is for a general overview and understanding on basic computer security - it will not be perfect nor cover all topics \(aimed at the casual internet user\), feel free to critique or request additions though!
 
