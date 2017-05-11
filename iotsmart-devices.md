@@ -14,7 +14,7 @@ As we can't go into detail for every individual device here are some tips to hel
 * Updating\(their firmware\) atleast once a month.
 * Having less reliance on cloud technologies
 
-
-
 For a more detailed guide check out [TrendMicro's SmartHome](https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/securing-smart-homes#securingthesmarthome)
+
+![](/assets/smarthome.png)
 
