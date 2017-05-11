@@ -10,7 +10,9 @@ You have multiple options with different passwords:
 
 Major Password: I,Ble55.Th3-Ra1ns?
 
-Password when using Stroodlemail: I,Ble55.Th3-Ra1ns?**STR** \(Adding STR for **STROODLEMAIL**\)Password when using Seddit: I,Ble55.Th3-Ra1ns?**SED** \(Adding SED for **SED**DIT\)
+Password when using Stroodlemail: I,Ble55.Th3-Ra1ns?**STR** \(Adding STR for **STROODLEMAIL**\)
+
+Password when using Seddit: I,Ble55.Th3-Ra1ns?**SED** \(Adding SED for **SED**DIT\)
 
 **Pros:** This means you only need to remember one password and the formula for additional services.
 
