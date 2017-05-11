@@ -8,8 +8,6 @@
   * [Linux](operating-systems/linux.md)
   * [Mac](operating-systems/mac.md)
   * [Windows](operating-systems/windows.md)
-* [IoT/Smart Devices](iotsmart-devices.md)
-* [Abbreviations and terms](abbreviations-and-terms.md)
 
 ## Malware and Viruses
 
@@ -53,9 +51,11 @@
 
 * [Wifi & Routers](wifi-and-routers.md)
 * [Physical Defense](physical-defense.md)
+* [IoT/Smart Devices](iotsmart-devices.md)
 * [Firewall](firewall.md)
 
 ## End
 
 * [Info](end.md)
+* [Abbreviations and terms](abbreviations-and-terms.md)
 
