@@ -4,7 +4,7 @@ I**f this has been helpful please consider donating via Paypal or BitCoin \(NYI\
 
 Contact:
 
-> SecurityOnlineGuide** AT **Tuta **D0T** io
+> ![](/assets/email.png)
 
 Github:
 
