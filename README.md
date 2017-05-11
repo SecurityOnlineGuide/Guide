@@ -16,6 +16,10 @@ Note: this guide was written with 0 affiliates or advertisements. all recommenda
 
 ### [Begin Reading](/general-tips.md)
 
+### 
+
+_Guide version 0.5 - 5/11/17_
+
 # 
 
 
