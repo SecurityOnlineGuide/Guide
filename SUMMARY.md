@@ -44,7 +44,7 @@
     * [BitWarden](passwords/password-managers/bitwarden.md)
     * [Keepass](passwords/password-managers/keepass.md)
 * [Two Factor Authentication \(2FA\)](two-factor-authentication-2fa.md)
-  * [Different Apps](two-factor-authentication-2fa/authy-google-auth-freeotp.md)
+  * [2FA Apps](two-factor-authentication-2fa/authy-google-auth-freeotp.md)
   * [Setting up 2fa](two-factor-authentication-2fa/setting-up-2fa.md)
 
 ## Routers, Smart Devices and Firewalls
