@@ -2,7 +2,7 @@
 
 [Google 2Step  ](https://www.google.com/landing/2step/)                                                               [   ](/antivirus.md)                                                                                                  [Skip to next topic](/antivirus.md)
 
-Found on your market places \(iOS app store or Play Store for Android\) is a straight forward app
+Found on your market places \(iOS app store or Play Store for Android\) is a straight forward app with minimal features
 
 ![](/assets/gauth.png)
 
