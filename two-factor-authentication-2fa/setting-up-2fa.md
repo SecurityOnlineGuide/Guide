@@ -15,5 +15,5 @@ Visit each website you want to have 2-Factor Authentication \(_We recommend all 
 5. Once that is complete you'll usually be given a list of recovery codes \(this is incase you lose your phone and can't log on\)
 6. Print out the list and keep it somewhere safe, these are one time use codes allowing you entry without your 2 factor authenticator.
 
-![](/assets/2fa qr.png)
+![](/assets/2fa qr.png) Still completely lost? [Check here](https://twofactorauth.org)
 
