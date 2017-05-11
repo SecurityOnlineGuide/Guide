@@ -8,5 +8,5 @@ As this is a beginners guide to security, I won't discuss terminal commands and 
 
 ## None Super User Account
 
-System Tools -&gt; User Accounts -&gt; + -&gt;  
+System Tools -&gt; User Accounts -&gt; + -&gt; Add Account
 
