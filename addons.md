@@ -10,7 +10,7 @@ Recommended Addons:
 
 * **HTTPS Everywhere** - _created by EFF_ is an addon which when you visit a website asks to use the "Secure" version instead \(discussed earlier in Browsers\).
 
-If you must use plugins but in most cases they are obsolete now, **KEEP THEM UP TO DATE**. Plugins include **Java** and **Flash Player**.
+If you must use **plugins such as Flash and Java **- they are known to have security issues** ,**but in most cases the plugins are obsolete now - remove them or change the setting to Ask before Activation in the plugins part of settings, **KEEP THEM UP TO DATE**. 
 
 ###### _\*Whilst removing ads does decrease revenue for a website \(which do cost money to run\) you are able to disable your adblock on websites you TRUST and want to support. This can be done by clicking the ublock Origin Icon\( Red Shield with UD\) in your toolbar then the Power button so it turns grey_
 
