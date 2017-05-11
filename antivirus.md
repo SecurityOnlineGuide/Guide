@@ -12,11 +12,22 @@ _If you're looking for a well respected antivirus you can consider buying Malwar
 
 ### For Mac
 
-Macs/OSX are built differently and a smaller market meaning there is less malware created for them, this does not mean that you are perfectly safe! With smart browsing habits an active antivirus is not needed. 
+Macs/OSX are built differently and a smaller market meaning there is less malware created for them, this does not mean that you are perfectly safe! With smart browsing habits an active antivirus is not needed.
 
 _Again if youre looking for a well respected antivirus check out AVG antivirus and BitDefender, these two were the highest rated/sucessful antivirus for Mac/OSX as of May 2017._
 
-# 
+---
+
+### **For Linux**
+
+Only downloading legitimate software packages and safe browsing habits will generally stop any malware.
+
+Checking for rootkits can be done by installing and running CHKRootkit & RKhunter:
+
+```
+sudo apt-get install chkrootkit
+sudo apt-get install rkhunter
+```
 
 
 
