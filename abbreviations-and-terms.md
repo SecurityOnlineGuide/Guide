@@ -10,9 +10,9 @@ Cloud - Information/Data stored on the internet for easy connectivity?
 
 Wifi- Wireless Network \(connecting to the internet without a cable\)
 
-Lan - Local Area Network
+Lan - Local Area Network \(Generally the intranet\)
 
-Wan - Wide Area Network
+Wan - Wide Area Network \(Generally the internet\)
 
 URL = Uniform Resource Locator - the address used for a website - ie "stroodle.com"
 
