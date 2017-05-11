@@ -8,7 +8,6 @@
   * [Linux](operating-systems/linux.md)
   * [Mac](operating-systems/mac.md)
   * [Windows](operating-systems/windows.md)
-* [News - Recent Security Issues](news-recent-security-issues.md)
 
 ## Malware and Viruses
 
@@ -55,8 +54,9 @@
 * [IoT/Smart Devices](iotsmart-devices.md)
 * [Firewall](firewall.md)
 
-## End
+## Final Notes
 
+* [News - Recent Security Issues](news-recent-security-issues.md)
 * [Info](end.md)
 * [Abbreviations and terms](abbreviations-and-terms.md)
 
