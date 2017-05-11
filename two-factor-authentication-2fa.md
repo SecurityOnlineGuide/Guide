@@ -14,5 +14,5 @@ A great way to check if your account has 2FA or you need help setting it up is v
 
 ![](/assets/2fa.png)
 
-The most secure method is a hardware 2fa device however an app is very secure, avoid text based authentication unless there are no other options as it is the least secure but still alot better than not having one!
+_The most secure method is a hardware 2fa device however an app is very secure, avoid text based authentication unless there are no other options as it is the least secure but still alot **better than not having one**!_
 
