@@ -1,4 +1,4 @@
-# Useful Programs/Websites
+Useful Programs/Websites
 
 ### Still unsure if a website is safe?
 
@@ -12,7 +12,7 @@ From their website: "Scores are assigned based on factors such as a website's ag
 
 **Unchecky** - [https://unchecky.com/](https://unchecky.com/) _\(Install and forget about it\)_
 
-If you're someone who finds themselves with lots of extra software and toolbars we recommend **Unchecky.**. When installing new software there are usually custom options to download other products which most users don't see. This little program will make sure you only install the items you want.
+If you're someone who finds themselves with lots of extra software and toolbars we recommend **Unchecky**. When installing new software there are usually custom options to download other products which most users don't see. This little program will make sure you only install the items you want.
 
 ### Terms and Conditions
 
