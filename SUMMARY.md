@@ -8,6 +8,7 @@
   * [Linux](operating-systems/linux.md)
   * [Mac](operating-systems/mac.md)
   * [Windows](operating-systems/windows.md)
+* [News - Recent Security Issues](news-recent-security-issues.md)
 
 ## Malware and Viruses
 
