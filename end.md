@@ -1,6 +1,6 @@
 I**f this has been helpful please consider donating via Paypal or BitCoin \(NYI\)**
 
-**Further questions, advice, ammendments are encouraged **
+**Further questions, advice, ammendments are encouraged either via email or GitHub:**
 
 Contact:
 
