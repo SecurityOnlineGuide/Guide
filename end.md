@@ -10,13 +10,7 @@ Contact:
 
 To Do:
 
-* [ ] More diagrams
-
-* [ ] Complete Physical Defense, IoT/Smart Device, Downloading
-
-* [ ] Complete Setup for 2FA/Password Managers
-
-* [ ] Complete e-Mail Phishing section to include Screenshots
+* [ ] Complete IoT/Smart Device,
 
 
 
