@@ -8,8 +8,6 @@ _**This guide is a work in progress**_
 
 This guide will hopefully help you understand internet security, feel safe and give you a general understanding of Accounts/Passwords, Your operating system, Software, e-mail and more. The focus will mainly be on home computers directed at the less technical user who doesn't have the time to research themselves but hopefully can be useful for everyone.
 
-It'll cover topics from malware, to surfing the web, downloading, passwords, two factor authentication, addons, and more
-
 Please consider that this guide is for a general overview and understanding on basic computer security - it will not be perfect nor cover all topics \(aimed at the casual internet user\), feel free to critique or request additions though!
 
 **If you believe you're computer is compromised - Contact someone with IT knowledge, don't do anything you're unsure about.**
