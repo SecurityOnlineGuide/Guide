@@ -4,7 +4,7 @@
 
 Whilst this guide is not about Privacy but Security there are times when the two overlap.
 
-Internet Privacy is overlooked by most users but its a right being degraded and fought for. Billion Dollar industries take advantage of the lack of knowledge/interest of the general public. I highly recommend you learning more about Internet Privacy.
+Internet Privacy is overlooked by most users but its a right being degraded and fought for. Not only is there a multi-billion dollar industries that takes advantage of the lack of knowledge/interest of the general public selling their information and data but software/hardware, ISPs, Governments take advantage of this too. I highly recommend you learning more about Internet Privacy. 
 
 Check out these areas for a detailed guide on privacy:
 
