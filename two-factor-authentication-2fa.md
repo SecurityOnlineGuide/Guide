@@ -4,7 +4,11 @@
 
 Think of 2Factor Authentication as a Second Password which only works for a short period of time.
 
-If a hacker gains access to your first password, there is very little they can do to get onto the account without the Second Password \(2fa\) which is only sent to you.
+Now before you think this is complicated you've probably already used it before with your bank with a devise like this
+
+![](/assets/2fa-device.png)
+
+If a hacker gains access to your first password, there is very little they can do to get onto the account without the Second Password \(2fa\) which is only sent to you via text/app/device.
 
 A great way to check if your account has 2FA or you need help setting it up is visiting [https://twofactorauth.org](https://twofactorauth.org) which has a large list of different websites/services easily organised for you!
 
