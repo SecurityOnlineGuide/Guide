@@ -6,9 +6,11 @@
 
 * Routers - A router is the box connecting you to the internet. There are a couple of main settings you need to confirm are in the right state:
 
-* In your router settings \(generally found at the URL 192.168.2.1\) Turn off Universal Plug and Play \(uPNP\) - this mode has many security issues and can allow external hackers access , You will know if you need it but 99% of people DO NOT.
+* In your router settings \(Generally the URL 192.168.2.1\) Turn off Universal Plug and Play \(uPNP\) - this mode has many security issues and can allow external hackers access , You will know if you need it but 99% of people DO NOT.
 
-* If you are using Wireless\(Wifi\) to connect to the internet rather than a cable make sure you have a secure password to connect to as well as a** none default ADMIN password**. To do this visit your Routers internal website \(usually found at 192.168.2.1\) log in with the information given generally found on the back of your router. If the settings are not visible look for a "advanced" section. _ Make sure you are using WPA2 as your Security Protocol \(all devices bought after 2006 should have it set by default\)_
+* Update your firmware for your router atleast once a month \(Done by visiting the router interface \(Generally the URL 192.168.2.1\)\)
+
+* Change your passwords from the default options. Both the WiFi password and the Admin Config password should be reconfigured **ASAP.** To do this visit your Routers internal website \(Generally the URL 192.168.2.1\) log in with the information given generally found on the back of your router. If the settings are not visible look for a "advanced" section. _ Make sure you are using WPA2 as your Security Protocol \(all devices bought after 2006 should have it set by default\)_
 
 
 
