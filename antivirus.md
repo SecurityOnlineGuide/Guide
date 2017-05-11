@@ -31,3 +31,9 @@ sudo apt-get install rkhunter
 
 Antivirus wise the OpenSource ClamAV is your best bet [https://www.clamav.net/](https://www.clamav.net/)
 
+```
+ sudo apt-get install clamav
+```
+
+
+
