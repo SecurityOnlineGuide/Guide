@@ -14,11 +14,5 @@ _This guide is aimed to help you understand the world of computer security bette
 
 
 
-To Do:
-
-* [ ] Complete IoT/Smart Device,
-
-
-
 
 
