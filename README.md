@@ -1,4 +1,4 @@
-# Security Online Guide {#securityonlineguide}
+# Security Online Guide 
 
 ![](/assets/Logo.png)
 
@@ -18,7 +18,7 @@ Please consider that this guide is for a general overview and understanding on b
 
 Note: this guide was written with 0 affiliates or advertisements. all recommendations are our own and not influenced.
 
-### [Begin Reading](/general-tips.md)
+### [Begin Reading](https://securityonlineguide.gitbooks.io/securityonlineguide/content/general-tips.html)
 
 ### 
 
